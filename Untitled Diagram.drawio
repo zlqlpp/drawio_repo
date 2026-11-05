@@ -7,6 +7,9 @@
         <mxCell id="0oOZa6CNoKAyAgdHSMai-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="210" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="mBDNaDt3YvwSWb3YH6Rt-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="160" y="505" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
